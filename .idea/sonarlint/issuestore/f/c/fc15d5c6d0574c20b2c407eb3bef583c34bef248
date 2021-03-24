@@ -1,0 +1,14 @@
+
+Y
+java:S1128
+"<Remove this unused import 'javafx.scene.control.ButtonType'.(úêÿ»8˜éÄñş.
+L
+java:S1144E"*Remove this unused private "reset" method.(¤¹§çúÿÿÿÿ8Ó¥–ïş.
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8˜éÄñş.
+I
+java:S1602?",Remove useless curly braces around statement(œİ½Ì8ğÆñş.
+T
+java:S1172M"2Remove this unused method parameter "actionEvent".(à†óÂúÿÿÿÿ8¦§íş.
+L
+java:S3740:"/Provide the parametrized type for this generic.(óÆá—8˜éÄñş.

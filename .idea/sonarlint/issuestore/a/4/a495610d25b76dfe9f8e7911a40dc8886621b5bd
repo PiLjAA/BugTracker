@@ -1,0 +1,25 @@
+
+O
+java:S1172O"2Remove this unused method parameter "actionEvent".(µÃ¸ş8ï¥¤Êş.
+P
+java:S1172”"2Remove this unused method parameter "actionEvent".(äó½‹8ï¥¤Êş.
+
+java:S1130i"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Åê‰µúÿÿÿÿ8ï¥¤Êş.
+K
+java:S10686".Remove this unused "projectDAO" private field.(µ»ãË8ï¥¤Êş.
+S
+java:S1172w"1Remove this unused method parameter "mouseEvent".(œÂƒÿÿÿÿÿ8ï¥¤Êş.
+T
+java:S1172S"2Remove this unused method parameter "actionEvent".(‚ª½Ùùÿÿÿÿ8ï¥¤Êş.
+S
+java:S1172|"1Remove this unused method parameter "mouseEvent".(ì†–¶øÿÿÿÿ8ï¥¤Êş.
+R
+java:S3655a"5Call "result.isPresent()" before accessing the value.(ÃÇûŞ8ï¥¤Êş.
+O
+java:S1172X"2Remove this unused method parameter "actionEvent".(¾®²8ï¥¤Êş.
+T
+java:S1172"1Remove this unused method parameter "mouseEvent".(¨¸Úüúÿÿÿÿ8ï¥¤Êş.
+U
+java:S1172‰"2Remove this unused method parameter "actionEvent".(Õ¡ŸÚøÿÿÿÿ8ï¥¤Êş.
+O
+java:S1602",Remove useless curly braces around statement(ïÄÁèıÿÿÿÿ8ö¥úÌş.

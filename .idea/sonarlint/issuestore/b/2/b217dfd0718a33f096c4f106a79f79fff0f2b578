@@ -1,0 +1,55 @@
+
+g
+java:S2095E"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Üı™éşÿÿÿÿ8ÙğËíş.
+>
+java:S1643H"Use a StringBuilder instead.(¥…ˆÇşÿÿÿÿ8ÙğËíş.
+’
+java:S1319h"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÔÈ©óüÿÿÿÿ8ÙğËíş.
+i
+java:S2095Z"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ8ÙğËíş.
+Y
+java:S2696ƒ"6Make the enclosing method "static" or remove this set.(”ÛÚ¬şÿÿÿÿ8ÙğËíş.
+`
+java:S1068">Remove this unused "getAllProjectsForDeveloper" private field.(µ…üÿÿÿÿ8ÙğËíş.
+X	java:S125}"<This block of commented-out lines of code should be removed.(Ï­Íº8ÙğËíş.
+[
+java:S1659"9Declare "findDeveloperByIdorUsername" on a separate line.(µ…üÿÿÿÿ8ÙğËíş.
+j
+java:S2095÷"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ8ÙğËíş.
+i
+java:S2095K"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ8ÙğËíş.
+
+java:S1319w"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¬ˆíò8ÙğËíş.
+K
+java:S1659")Declare "editProfile" on a separate line.(¸Â‰œûÿÿÿÿ8ÙğËíş.
+M
+java:S1066Ò"/Merge this if statement with the enclosing one.(¾¤ 8ÙğËíş.
+L
+java:S2115ƒ")Add password protection to this database.(”ÛÚ¬şÿÿÿÿ8ÙğËíş.
+M
+java:S1659"+Declare "checkUsername" on a separate line.(¸Â‰œûÿÿÿÿ8ÙğËíş.
+W
+java:S1141J"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÙğËíş.
+O
+java:S1659"-Declare "findIdWithEmail" on a separate line.(¸Â‰œûÿÿÿÿ8¾úòğş.
+C
+java:S3010"!Remove this assignment of "conn".(”ÛÚ¬şÿÿÿÿ8ÙğËíş.
+F
+java:S1659"$Declare "findId" on a separate line.(µ…üÿÿÿÿ8ÙğËíş.
+J
+java:S1659"(Declare "checkEmail" on a separate line.(¸Â‰œûÿÿÿÿ8ÙğËíş.
+M
+java:S1066Å"/Merge this if statement with the enclosing one.(¾¤ 8ÙğËíş.
+K
+java:S2115")Add password protection to this database.(”ÛÚ¬şÿÿÿÿ8ÙğËíş.
+E
+java:S1659"#Declare "login" on a separate line.(¸Â‰œûÿÿÿÿ8ÙğËíş.
+\
+java:S1659":Declare "getAllDevelopersInsteadOfOne" on a separate line.(µ…üÿÿÿÿ8ÙğËíş.
+G
+java:S1659"%Declare "findMax" on a separate line.(Ê¹ şÿÿÿÿ8ÙğËíş.
+X	java:S125o"<This block of commented-out lines of code should be removed.(Ï­Íº8ÙğËíş.
+Z
+java:S1659"8Declare "getAllProjectsForDeveloper" on a separate line.(µ…üÿÿÿÿ8ÙğËíş.
+L
+java:S1659"*Declare "addDeveloper" on a separate line.(Ê¹ şÿÿÿÿ8ÙğËíş.
